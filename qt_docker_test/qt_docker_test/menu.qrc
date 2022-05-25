@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>imgs/icons8-exit.png</file>
+        <file>imgs/icons8-export.png</file>
+        <file>imgs/icons8-connected.png</file>
+        <file>imgs/icons8-disconnected.png</file>
+    </qresource>
+</RCC>
